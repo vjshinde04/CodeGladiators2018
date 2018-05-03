@@ -1,0 +1,9 @@
+https://en.wikipedia.org/wiki/List_of_data_structures
+https://en.wikipedia.org/wiki/Graph_(abstract_data_type)
+https://medium.com/omarelgabrys-blog/diving-into-data-structures-6bc71b2e8f92
+https://medium.com/omarelgabrys-blog/data-structures-a-quick-comparison-6689d725b3b0
+https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree
+https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.6421&rep=rep1&type=pdf
+https://en.wikipedia.org/wiki/Trie
+https://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures
